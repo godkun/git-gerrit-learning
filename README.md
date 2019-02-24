@@ -4,7 +4,7 @@
 
 可以先看看我的这篇文章：
 
-[初中高级的 git 和 gerrit 技巧【大型项目实战总结 && CR 经验](https://juejin.im/post/5c2d7377518825544d43dfa5)
+[初中高级的 git 和 gerrit 技巧【大型项目实战总结 && CR 经验】](https://juejin.im/post/5c2d7377518825544d43dfa5)
 
 ## 不定期更新中————
 
